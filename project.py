@@ -4,3 +4,5 @@ if new_password == password:
     print("correct")
 else:
     print("incorrect")
+
+print("finished")
